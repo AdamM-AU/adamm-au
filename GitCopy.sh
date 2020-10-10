@@ -1,3 +1,4 @@
+#!/bin/bash
 #GitCopy.sh - Simple Tool for Cloning a Repo will Full Commit History
 #Adam M (S3875753@student.rmit.edu.au)
 
@@ -12,6 +13,7 @@ fi
 if [ -z ${2+x} ]
 then
         echo "No Destination/Target Repo!"
+        echo "GitCopy.sh <Origin/Source> <Destination/Target>"		
         exit
 fi
 
