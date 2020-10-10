@@ -20,10 +20,10 @@ echo "Destination: $2"
 mkdir GitCopy-Temp
 cd GitCopy-Temp
 
+#Origin/Source Repo
 RepoDir=${1##*/}
 RepoDir=${RepoDir%".git"}
 
-#Origin/Source Repo
 git clone $1
 cd $RepoDir
 git remote rm origin
@@ -35,16 +35,17 @@ mv $RepoDir $RepoDir"-Source"
 #End of Origin/Source Repo
 
 
+#Destination/Target Repo
 RepoDir2=${2##*/}
 RepoDir2=${RepoDir2%".git"}
 
-#Target
 git clone $2
 cd $RepoDir2
 git remote add origin-repo ../$RepoDir"-Source"
 git pull origin-repo master
 git remote rm origin-repo
 git push
+# End of Destination/Target Repo
 
 echo " "
 echo "All Tasks Completed!"
