@@ -1,5 +1,5 @@
 # S3875753 - Adam M
-## Unit's
+## Subject Units
 ```
 COSC2196
 ```
