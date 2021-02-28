@@ -4,3 +4,6 @@
 COSC2196 - Introduction to Information Technology (2077)
 COSC2452 - Introduction to Programming (2097)
 ```
+```
+COSC2135 - Programming 1 (2037)
+```
