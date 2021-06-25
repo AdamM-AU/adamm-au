@@ -9,5 +9,5 @@ COSC2452 - Introduction to Programming (2097)
 ### Bachelor of Information Technology
 ```
 COSC2135 - Programming 1 (2037)
-ISY2095  - Database Concepts (2137)
+ISYS2095 - Database Concepts (2137)
 ```
