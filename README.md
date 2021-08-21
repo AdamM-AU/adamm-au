@@ -3,14 +3,15 @@ These repositories are intended to assist other students where course material o
 
 I will also offer this warning that you see this material with no attached grades. In addition, some information in these repositories may be incorrect, as once the assignment has been graded, I DO NOT correct the assignments uploaded here.
 
-## Subject Units
-### Introduction Units
+
+
+## Bachelor of Information Technology
+#### Foundation Subjects
 ```
 COSC2196 - Introduction to Information Technology (2077)
 COSC2452 - Introduction to Programming (2097)
 ```
-
-### Bachelor of Information Technology
+#### Core Subjects - Level 1
 ```
 COSC2135 - Programming 1 (2037)
 ISYS2095 - Database Concepts (2137)
