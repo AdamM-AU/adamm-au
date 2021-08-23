@@ -15,6 +15,6 @@ COSC2452 - Introduction to Programming (2097)
 ```
 COSC2135 - Programming 1 (2037)
 ISYS2095 - Database Concepts (2137)
-00000000 - Introduction to Computer Systems ()
+COSC2644 - Introduction to Computer Systems (2177)
 COSC2653 - User-centred Design ()
 ```
