@@ -18,4 +18,5 @@ ISYS2095 - Database Concepts (2137)
 COSC2644 - Introduction to Computer Systems (2177)
 COSC2653 - User-centred Design (2197)
 COSC2635 - Building IT Systems (DROPPED)
+COSC2453 - Web Programming (2237)
 ```
