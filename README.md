@@ -17,7 +17,7 @@ COSC2135 - Programming 1 (2037)
 ISYS2095 - Database Concepts (2137)
 COSC2644 - Introduction to Computer Systems (2177)
 COSC2653 - User-centred Design (2197)
-COSC2635 - Building IT Systems (DROPPED) - 2022/05/11
+COSC2635 - Building IT Systems (DROPPED) [Team: SlipstreamDevs] - 2022/05/11
 COSC2453 - Web Programming (2237)
-COSC2635(2) - Building IT Systems
+COSC2635(2) - Building IT Systems [Team: Stdout.Systems]
 ```
